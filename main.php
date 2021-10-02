@@ -2,12 +2,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>New Hypertab</title>
-    <link rel="stylesheet" href="css/css.css">
+    <link rel="stylesheet" href="https://www.titaniumnetwork.org/css/css.css">
 </head>
 
 <body id="body" style="background-color: rgb(50, 54, 57);">
-    <script src="js/bookmarks.js"></script>
-    <script src="js/weather.js"></script>
+    <script src="https://www.titaniumnetwork.org/js/bookmarks.js"></script>
+    <script src="https://www.titaniumnetwork.org/js/weather.js"></script>
     <script>
     const ip = "";
     </script>
