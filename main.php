@@ -8,9 +8,6 @@
 <body id="body" style="background-color: rgb(50, 54, 57);">
     <script src="https://www.titaniumnetwork.org/js/bookmarks.js"></script>
     <script src="https://www.titaniumnetwork.org/js/weather.js"></script>
-    <script>
-    const ip = "";
-    </script>
     <div class="bookmarks">
     </div>
     <div class="info">
